@@ -14,7 +14,7 @@ The model is built using Hugging Face Hub models, specifically the stable diffus
 
 ### 2. Deployment on Hugging Face Spaces
 
-The Graphical Image App is deployed on [Hugging Face Spaces](https://huggingface.co/spaces) for convenient access and sharing. You can interact with the model directly on our Hugging Face Space at [Your Hugging Face Space URL](https://huggingface.co/spaces/your-username/graphical-image-app).
+The Graphical Image App is deployed on [Hugging Face Spaces](https://huggingface.co/spaces) for convenient access and sharing. You can interact with the model directly on our Hugging Face Space at [Your Hugging Face Space URL](https://huggingface.co/spaces/Saurabhgk18/AdvancedStable-Diffusion).
 
 ### 3. Gradio for Web UI
 
